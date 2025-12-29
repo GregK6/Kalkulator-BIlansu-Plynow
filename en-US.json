@@ -1,0 +1,14 @@
+{
+  "title": "Fluid Balance Calculator",
+  "choose_balance": "Select balance type",
+  "flow_rate": "IV flow rate (ml/h)",
+  "iv_fluids": "Additional IV fluids (ml)",
+  "oral_fluids": "Oral fluids (ml)",
+  "urine": "Urine (ml)",
+  "vomit": "Vomiting (ml)",
+  "calculate": "Calculate fluid balance",
+  "result_default": "Enter data and calculate\nto see the result",
+  "error_choose": "Please select a fluid balance type.",
+  "error_number": "Please enter valid\nnumeric values.",
+  "result": "Remaining to administer: {value} ml."
+}

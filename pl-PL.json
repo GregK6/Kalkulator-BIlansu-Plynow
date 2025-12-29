@@ -1,0 +1,14 @@
+{
+  "title": "Kalkulator Bilansu Płynów",
+  "choose_balance": "Wybierz typ bilansu",
+  "flow_rate": "Podaj szybkość przepływu kroplówki (ml/h)",
+  "iv_fluids": "Dodatkowe płyny dożylne (ml)",
+  "oral_fluids": "Płyny doustne (ml)",
+  "urine": "Mocz (ml)",
+  "vomit": "Wymioty (ml)",
+  "calculate": "Oblicz bilans płynów",
+  "result_default": "Podaj dane i oblicz\naby zobaczyć wynik",
+  "error_choose": "Proszę wybrać typ bilansu płynów.",
+  "error_number": "Proszę wprowadzić prawidłowe\nwartości liczbowe.",
+  "result": "Pozostało do oddania {value} ml."
+}
