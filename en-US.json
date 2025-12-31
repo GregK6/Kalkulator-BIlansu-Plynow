@@ -5,7 +5,7 @@
   "iv_fluids": "Additional IV fluids (ml)",
   "oral_fluids": "Oral fluids (ml)",
   "urine": "Urine (ml)",
-  "vomit": "Vomiting (ml)",
+  "vomit": "Vomit (ml)",
   "calculate": "Calculate fluid balance",
   "result_default": "Enter data and calculate\nto see the result",
   "error_choose": "Please select a fluid balance type.",
