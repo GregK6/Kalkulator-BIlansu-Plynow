@@ -19,7 +19,7 @@ Obecnie nie ma planów wsparcia dla innych platform.
 
 ---
 
-## Wyłączenie odpowiedzialności (Disclaimer)
+## Wyłączenie odpowiedzialności (Ostrzeżenie)
 Aplikacja służy wyłącznie do celów informacyjnych i edukacyjnych.  
 Nie stanowi substytutu profesjonalnej porady medycznej, diagnozy ani leczenia.  
 Decyzje terapeutyczne powinny być podejmowane przez wykwalifikowany personel medyczny.
@@ -51,7 +51,7 @@ Aplikacja nie posiada podpisu cyfrowego, dlatego system Windows może wyświetli
 
 # English
 
-A simple application designed to assist in tracking fluid balance in patients
+A simple application designed to assist in tracking fluid balance for patients
 receiving furosemide, aiming to reduce the risk of unnecessary or excessive
 administration.
 
